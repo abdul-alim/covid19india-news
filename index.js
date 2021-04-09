@@ -46,7 +46,7 @@ const LOG = console.log;
 
         // GIT PUSH OPERATIONS
         let { files: diffFiles } = await git.diffSummary();
-        await git.add('./news/*');
+        await git.add('./docs/*');
 
         if (diffFiles.length) {
             let commit = await git.commit(`aws - data updated: ${utils.getCurrentISTLogTime()}`);
