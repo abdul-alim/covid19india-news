@@ -1,0 +1,25 @@
+{
+    "name": "covid-19-india-news",
+    "version": "1.0.0",
+    "description": "Covid 19 news for all Indian states.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/abdul-alim/covid19india-news.git"
+    },
+    "author": "Abdul Alim",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/abdul-alim/covid19india-news/issues"
+    },
+    "homepage": "https://github.com/abdul-alim/covid19india-news#readme",
+    "devDependencies": {
+        "google-news-rss": "^0.4.1",
+        "metadata-scraper": "^0.2.16",
+        "prettier": "2.2.1",
+        "simple-git": "^2.37.0"
+    }
+}
