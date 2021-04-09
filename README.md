@@ -6,45 +6,45 @@ Live Free COVID-19 India Database <a href="https://api.track-covid19.in">https:/
 ## List of all available news API.
 
 |     Status          |     State           |    URL    |
-|---------------------|---------------------------------|-------------|
-|    :green_heart:    |    Andhra Pradesh   |    <https://news.track-covid19.in/AP.json>    
-|    :green_heart:    |    Arunachal Pradesh    |    <https://news.track-covid19.in/AR.json>    |    
-|    :green_heart:    |    Assam    |    <https://news.track-covid19.in/AS.json>    |    
-|    :green_heart:    |    Bihar    |    <https://news.track-covid19.in/BR.json>    |    
-|    :green_heart:    |    Chhattisgarh    |    <https://news.track-covid19.in/CT.json>    |    
-|    :green_heart:    |    Goa    |    <https://news.track-covid19.in/GA.json>    |    
-|    :green_heart:    |    Gujarat    |    <https://news.track-covid19.in/GJ.json>    |    
-|    :green_heart:    |    Haryana    |    <https://news.track-covid19.in/HR.json>    |    
-|    :green_heart:    |    Himachal Pradesh    |    <https://news.track-covid19.in/HP.json>    |    
-|    :green_heart:    |    Jharkhand    |    <https://news.track-covid19.in/JH.json>    |    
-|    :green_heart:    |    Karnataka    |    <https://news.track-covid19.in/KA.json>    |    
-|    :green_heart:    |    Kerala    |    <https://news.track-covid19.in/KL.json>    |    
-|    :green_heart:    |    Madhya Pradesh    |    <https://news.track-covid19.in/MP.json>    |    
-|    :green_heart:    |    Maharashtra    |    <https://news.track-covid19.in/MH.json>    |    
-|    :green_heart:    |    Manipur    |    <https://news.track-covid19.in/MN.json>    |    
-|    :green_heart:    |    Meghalaya    |    <https://news.track-covid19.in/ML.json>    |    
-|    :green_heart:    |    Mizoram    |    <https://news.track-covid19.in/MZ.json>    |    
-|    :green_heart:    |    Nagaland    |    <https://news.track-covid19.in/NL.json>    |    
-|    :green_heart:    |    Odisha    |    <https://news.track-covid19.in/OR.json>    |    
-|    :green_heart:    |    Punjab    |    <https://news.track-covid19.in/PB.json>    |    
-|    :green_heart:    |    Rajasthan    |    <https://news.track-covid19.in/RJ.json>    |    
-|    :green_heart:    |    Sikkim    |    <https://news.track-covid19.in/SK.json>    |    
-|    :green_heart:    |    Tamil Nadu    |    <https://news.track-covid19.in/TN.json>    |    
-|    :green_heart:    |    Telangana    |    <https://news.track-covid19.in/TG.json>    |    
-|    :green_heart:    |    Tripura    |    <https://news.track-covid19.in/TR.json>    |    
-|    :green_heart:    |    Uttarakhand    |    <https://news.track-covid19.in/UT.json>    |    
-|    :green_heart:    |    Uttar Pradesh    |    <https://news.track-covid19.in/UP.json>    |    
-|    :green_heart:    |    West Bengal    |    <https://news.track-covid19.in/WB.json>    |    
-|    :green_heart:    |    Andaman and Nicobar    |    <https://news.track-covid19.in/AN.json>    |    
-|    :green_heart:    |    Chandigarh    |    <https://news.track-covid19.in/CH.json>    |    
-|    :green_heart:    |    Dadra and Nagar Haveli    |    <https://news.track-covid19.in/DN.json>    |    
-|    :green_heart:    |    Daman and Diu    |    <https://news.track-covid19.in/DD.json>    |    
-|    :green_heart:    |    Delhi    |    <https://news.track-covid19.in/DL.json>    |    
-|    :green_heart:    |    Jammu and Kashmir    |    <https://news.track-covid19.in/JK.json>    |    
-|    :green_heart:    |    Ladakh    |    <https://news.track-covid19.in/LA.json>    |    
-|    :green_heart:    |    Lakshadweep    |    <https://news.track-covid19.in/LD.json>    |    
-|    :green_heart:    |    Puducherry    |    <https://news.track-covid19.in/PY.json>    |    
-|    :green_heart:    |    India    |    <https://news.track-covid19.in/IND.json>    |
+|----------|---------------------------------|-------------|
+|    💚    |    Andhra Pradesh   |    <https://news.track-covid19.in/AP.json>
+|    💚    |    Arunachal Pradesh    |    <https://news.track-covid19.in/AR.json>    |    
+|    💚    |    Assam    |    <https://news.track-covid19.in/AS.json>    |    
+|    💚    |    Bihar    |    <https://news.track-covid19.in/BR.json>    |    
+|    💚    |    Chhattisgarh    |    <https://news.track-covid19.in/CT.json>    |    
+|    💚    |    Goa    |    <https://news.track-covid19.in/GA.json>    |    
+|    💚    |    Gujarat    |    <https://news.track-covid19.in/GJ.json>    |    
+|    💚    |    Haryana    |    <https://news.track-covid19.in/HR.json>    |    
+|    💚    |    Himachal Pradesh    |    <https://news.track-covid19.in/HP.json>    |    
+|    💚    |    Jharkhand    |    <https://news.track-covid19.in/JH.json>    |    
+|    💚    |    Karnataka    |    <https://news.track-covid19.in/KA.json>    |    
+|    💚    |    Kerala    |    <https://news.track-covid19.in/KL.json>    |    
+|    💚    |    Madhya Pradesh    |    <https://news.track-covid19.in/MP.json>    |    
+|    💚    |    Maharashtra    |    <https://news.track-covid19.in/MH.json>    |    
+|    💚    |    Manipur    |    <https://news.track-covid19.in/MN.json>    |    
+|    💚    |    Meghalaya    |    <https://news.track-covid19.in/ML.json>    |    
+|    💚    |    Mizoram    |    <https://news.track-covid19.in/MZ.json>    |    
+|    💚    |    Nagaland    |    <https://news.track-covid19.in/NL.json>    |    
+|    💚    |    Odisha    |    <https://news.track-covid19.in/OR.json>    |    
+|    💚    |    Punjab    |    <https://news.track-covid19.in/PB.json>    |    
+|    💚    |    Rajasthan    |    <https://news.track-covid19.in/RJ.json>    |    
+|    💚    |    Sikkim    |    <https://news.track-covid19.in/SK.json>    |    
+|    💚    |    Tamil Nadu    |    <https://news.track-covid19.in/TN.json>    |    
+|    💚    |    Telangana    |    <https://news.track-covid19.in/TG.json>    |    
+|    💚    |    Tripura    |    <https://news.track-covid19.in/TR.json>    |    
+|    💚    |    Uttarakhand    |    <https://news.track-covid19.in/UT.json>    |    
+|    💚    |    Uttar Pradesh    |    <https://news.track-covid19.in/UP.json>    |    
+|    💚    |    West Bengal    |    <https://news.track-covid19.in/WB.json>    |    
+|    💚    |    Andaman and Nicobar    |    <https://news.track-covid19.in/AN.json>    |    
+|    💚    |    Chandigarh    |    <https://news.track-covid19.in/CH.json>    |    
+|    💚    |    Dadra and Nagar Haveli    |    <https://news.track-covid19.in/DN.json>    |    
+|    💚    |    Daman and Diu    |    <https://news.track-covid19.in/DD.json>    |    
+|    💚    |    Delhi    |    <https://news.track-covid19.in/DL.json>    |    
+|    💚    |    Jammu and Kashmir    |    <https://news.track-covid19.in/JK.json>    |    
+|    💚    |    Ladakh    |    <https://news.track-covid19.in/LA.json>    |    
+|    💚    |    Lakshadweep    |    <https://news.track-covid19.in/LD.json>    |    
+|    💚    |    Puducherry    |    <https://news.track-covid19.in/PY.json>    |    
+|    💚    |    India    |    <https://news.track-covid19.in/IND.json>    |
 
 ## Setup
 
