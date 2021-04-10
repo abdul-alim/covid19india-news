@@ -5,6 +5,7 @@ const outDir = 'docs';
 const googleNews = new GoogleNewsRss();
 const META_TIMEOUT = 1; // minutes
 
+
 /**
  *
  * @param place
